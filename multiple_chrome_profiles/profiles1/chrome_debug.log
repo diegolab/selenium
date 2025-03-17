@@ -1,0 +1,10 @@
+[18744:21844:0315/201443.423:INFO:chrome_browser_cloud_management_controller.cc(196)] No machine level policy manager exists.
+[11380:13296:0315/201443.767:WARNING:viz_main_impl.cc(85)] VizNullHypothesis is disabled (not a warning)
+[18744:21844:0315/201454.741:WARNING:controller_impl.cc(1187)] Background download complete, client: 6, completion type: 0, file size:5154
+[18744:21844:0315/201454.826:WARNING:controller_impl.cc(1187)] Background download complete, client: 6, completion type: 0, file size:265059
+[18744:21844:0315/201455.688:WARNING:controller_impl.cc(1187)] Background download complete, client: 6, completion type: 0, file size:883094
+[18744:21844:0315/201455.913:WARNING:controller_impl.cc(1187)] Background download complete, client: 6, completion type: 0, file size:2200227
+[18744:21844:0315/201456.486:WARNING:controller_impl.cc(1187)] Background download complete, client: 6, completion type: 0, file size:45129
+[18744:21844:0315/201456.877:WARNING:controller_impl.cc(1187)] Background download complete, client: 6, completion type: 0, file size:2992963
+[18744:21844:0315/201457.336:WARNING:controller_impl.cc(1187)] Background download complete, client: 6, completion type: 0, file size:4680
+[18744:21844:0315/201457.594:WARNING:controller_impl.cc(1187)] Background download complete, client: 6, completion type: 0, file size:2747170

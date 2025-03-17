@@ -1,0 +1,10 @@
+[21896:20912:0315/201443.418:INFO:chrome_browser_cloud_management_controller.cc(196)] No machine level policy manager exists.
+[18660:21332:0315/201443.658:WARNING:viz_main_impl.cc(85)] VizNullHypothesis is disabled (not a warning)
+[21896:20912:0315/201454.659:WARNING:controller_impl.cc(1187)] Background download complete, client: 6, completion type: 0, file size:5154
+[21896:20912:0315/201454.671:WARNING:controller_impl.cc(1187)] Background download complete, client: 6, completion type: 0, file size:265059
+[21896:20912:0315/201455.534:WARNING:controller_impl.cc(1187)] Background download complete, client: 6, completion type: 0, file size:2200227
+[21896:20912:0315/201455.718:WARNING:controller_impl.cc(1187)] Background download complete, client: 6, completion type: 0, file size:883094
+[21896:20912:0315/201456.370:WARNING:controller_impl.cc(1187)] Background download complete, client: 6, completion type: 1, file size:0
+[21896:20912:0315/201456.370:WARNING:controller_impl.cc(1187)] Background download complete, client: 6, completion type: 1, file size:0
+[19984:20092:0315/201456.390:WARNING:sqlite_persistent_store_backend_base.cc(198)] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:248 to client_task_runner_.
+[19984:20092:0315/201456.390:WARNING:sqlite_persistent_store_backend_base.cc(198)] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:248 to client_task_runner_.
